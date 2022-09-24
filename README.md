@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Machine Learning
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me at aswalroshan2002@gmail.com
+- 📫 How to reach me at aswalroshan2002new@gmail.com
 - 
 
 <!---
