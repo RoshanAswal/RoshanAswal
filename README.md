@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Java Springboot and Machine Learning
 - I am looking for more opportunities in software engineering field.
-- 📫 How to reach me at aswalroshan2002new@gmail.com
+- 📫 How to reach me at aswalroshan2002@gmail.com
 - 
 
 <!---
